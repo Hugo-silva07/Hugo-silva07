@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou Hugo Silva 👋
 
-<!--
-**Hugo-silva07/Hugo-silva07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista técnico híbrido com foco em automação, dados, APIs REST e eficiência operacional.
 
-Here are some ideas to get you started:
+Analista técnico híbrido com foco em:
+- Análise de Dados
+- Automação de Processos
+- APIs REST
+- Sistemas Web
+- BI e Eficiência Operacional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack principal
+- Python
+- Django REST
+- FastAPI
+- Next.js
+- JavaScript
+- Power BI
+- SQL
+- APIs REST
+
+## Atualmente desenvolvendo
+🚀 Plataforma de Gestão Operacional Inteligente (FieldFlow)
+
+## Contato
+- LinkedIn: https://linkedin.com/in/hugosilva07
